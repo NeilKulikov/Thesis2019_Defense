@@ -1,0 +1,31 @@
+    \begin{columns}
+      \column{0.5\linewidth} 
+        \begin{center}
+          \textbf{Длина волны $14~\mu m$}
+
+          \includegraphics[width=0.5\textwidth]{./images/14u_impure_80K.pdf}
+
+          "Грязные" квантовые ямы, $\varepsilon_{th} \approx 18~meV$.
+
+          $\Downarrow$
+
+          \includegraphics[width=0.5\textwidth]{./images/14u_pure_80K.pdf}
+
+          "Чистые" квантовые ямы, $\varepsilon_{th} \approx 23~meV$.
+        \end{center}
+
+        \column{0.5\linewidth} 
+        \begin{center}
+          \textbf{Длина волны $18~\mu m$}
+
+          \includegraphics[width=0.5\textwidth]{./images/18u_impure_40K.pdf}
+
+          "Грязные" квантовые ямы, $\varepsilon_{th} \approx 18~meV$.
+
+          $\Downarrow$
+
+          \includegraphics[width=0.5\textwidth]{./images/18u_pure_40K.pdf}
+
+          "Чистые" квантовые ямы, $\varepsilon_{th} \approx 23~meV$.
+        \end{center}
+    \end{columns}
